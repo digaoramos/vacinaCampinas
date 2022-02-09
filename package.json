@@ -1,0 +1,29 @@
+{
+  "name": "vacinacampinas",
+  "version": "1.0.0",
+  "description": "A simple script to find available Vaccination Centers",
+  "main": "vacinaCampinas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/digaoramos/vacinaCampinas.git"
+  },
+  "keywords": [
+    "nodejs",
+    "axios",
+    "Campinas",
+    "COVID",
+    "Vaccination"
+  ],
+  "author": "Rodrigo Couto",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/digaoramos/vacinaCampinas/issues"
+  },
+  "homepage": "https://github.com/digaoramos/vacinaCampinas#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
