@@ -1,0 +1,12 @@
+{
+	"currentPosition": {
+		"latitude": -22.910715603503448,
+		"longitude": -47.05348503768255
+	},
+	"maxKmDistance": 5,
+	"campinasVaccinationURLs": {
+		"centrosVagasReforco": "https://agenda-vacina-api.campinas.sp.gov.br/api/v1/cronogramas/centros_vagas_reforco",
+		"centros": "https://agenda-vacina-api.campinas.sp.gov.br/api/v1/centros"
+	},
+	"lostDoseAppointmentId": 0
+}
